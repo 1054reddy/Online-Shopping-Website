@@ -1,3 +1,9 @@
+# An Alternative
+
+Before getting into this project I would recommend you to see this project repo before to understand and do all the basics.
+An alternative git(personal) including the user registration and login functionalities and filter the products with various categories, using flask framework and MySQL. 
+[click here](https://github.com/1054reddy/shop-easy.git)
+
 # ShopEase E-Commerce Platform
 
 ShopEase is a full-featured e-commerce web application built with Python's Flask framework and MySQL. It provides a seamless online shopping experience for users, allowing them to browse products, manage their cart, and place orders.
