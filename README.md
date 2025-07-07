@@ -1,7 +1,6 @@
 # An Alternative
 
-Before getting into this project I would recommend you to see this project repo before to understand and do all the basics.
-An alternative git(personal) including the user registration and login functionalities and filter the products with various categories, using flask framework and MySQL. 
+Before getting started with this project, you may find it helpful to explore this alternative repository. It covers the basics such as user authentication , login functionality and category-based product filtering, built using Flask and MySQL database. 
 [click here](https://github.com/1054reddy/shop-easy.git)
 
 # ShopEase E-Commerce Platform
